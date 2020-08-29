@@ -84,7 +84,7 @@
                         'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
                     },
                     method: "POST",
-                    url: "http://127.0.0.1:8000/updateStatus",
+                    url: "http://urmarirepret.tk/updateStatus",
                     data: {
                         id: id
                     },
